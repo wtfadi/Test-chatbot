@@ -1,0 +1,5 @@
+{
+  "name": "Hybrid AI Orchestrator",
+  "description": "A dual-stream chat interface demonstrating a hybrid AI architecture where Gemini orchestrates external API calls via JSON instructions.",
+  "requestFramePermissions": []
+}
